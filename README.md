@@ -328,12 +328,8 @@ tutorial ainda em construção.
 
 ## ✒️ Autores
 
-Danilo Teófilo  
-Me adicione no linkedin ->https://www.linkedin.com/in/danilo-domingos-fonseca-teofilo-287477162/
-
-Tales Silva </br>
-Me adicione no linkedin -> https://www.linkedin.com/in/tales-silva-050731256/
-
+Leonardo Gildo 
+Me adicione no linkedin https://bit.ly/LkdLeonardo
 
 ## 📄 Licença
 
