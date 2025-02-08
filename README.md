@@ -326,7 +326,7 @@ Para sugestões de melhora no código, possíveis correções e dúvidas, consul
 
 tutorial ainda em construção.
 
-## ✒️ Autores
+## ✒️ Autor
 
 Leonardo Gildo 
 Me adicione no linkedin https://bit.ly/LkdLeonardo
