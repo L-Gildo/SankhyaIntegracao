@@ -1,4 +1,4 @@
-## INTEGRAÇÃO BÁSICA DE SISTEMAS VIA SANKHYA COM OS MÉTODOS *POST* E *GET*, POR DANILO TEOFILO & TALES SILVA.
+## INTEGRAÇÃO BÁSICA DE SISTEMAS VIA SANKHYA COM OS MÉTODOS *POST* E *GET*
 
 ### Pequeno manual de instruções para que devs que utilizam o ERP SANKHYA consigam entender e fazer uma integração de sistemas via API com os métodos *POST* e *GET* via botão de ação.
 
